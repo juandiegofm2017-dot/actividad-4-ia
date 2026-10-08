@@ -1,0 +1,1001 @@
+estacion,hora,dia_semana,es_festivo,pasajeros,frecuencia_buses,incidente,nivel_demanda
+CAD,8,Lunes,0,300,5,0,Baja
+Toberín,22,Lunes,0,82,2,0,Baja
+Calle 100,21,Viernes,0,253,12,0,Baja
+Calle 45,12,Jueves,0,878,2,0,Baja
+Calle 127,18,Miércoles,0,270,7,0,Baja
+Calle 45,8,Miércoles,0,668,6,0,Media
+Portal El Dorado,19,Viernes,0,994,8,0,Alta
+Calle 85,16,Viernes,0,121,2,0,Baja
+Calle 85,7,Domingo,0,153,8,0,Media
+CAD,16,Martes,0,264,12,0,Baja
+CAD,7,Viernes,0,596,5,0,Media
+Calle 45,13,Sábado,0,274,12,0,Baja
+Portal Norte,12,Domingo,0,373,8,0,Baja
+Calle 100,23,Sábado,0,721,9,0,Media
+CAD,19,Martes,0,302,10,0,Media
+Portal El Dorado,23,Jueves,0,458,7,0,Baja
+Calle 127,21,Jueves,0,98,3,0,Baja
+Calle 127,18,Viernes,0,440,11,1,Alta
+Av. Jiménez,13,Viernes,0,61,12,0,Baja
+CAD,22,Domingo,0,706,7,0,Baja
+Calle 45,10,Jueves,0,789,6,1,Media
+Calle 127,21,Lunes,0,355,12,0,Baja
+Calle 100,9,Miércoles,0,602,10,1,Alta
+Ricaurte,15,Jueves,0,421,6,0,Baja
+Calle 100,23,Lunes,0,547,3,1,Baja
+Av. Jiménez,9,Martes,0,612,4,0,Media
+Ricaurte,18,Martes,1,823,5,0,Media
+Calle 45,16,Jueves,0,512,3,0,Baja
+Toberín,15,Lunes,0,285,11,0,Baja
+Toberín,6,Martes,0,82,7,0,Baja
+Calle 100,13,Sábado,0,602,4,0,Baja
+Ricaurte,23,Jueves,0,534,8,0,Baja
+Toberín,18,Miércoles,0,528,2,0,Media
+CAD,8,Lunes,0,397,3,0,Media
+Calle 100,22,Jueves,0,237,6,0,Baja
+Toberín,19,Domingo,0,613,3,0,Media
+Av. Jiménez,5,Lunes,1,919,5,0,Baja
+Calle 26,20,Martes,0,974,2,0,Media
+Portal Norte,17,Miércoles,1,853,9,0,Alta
+Portal El Dorado,22,Sábado,0,208,5,0,Baja
+Portal Norte,23,Sábado,0,815,7,0,Baja
+Ricaurte,20,Viernes,1,593,4,0,Media
+Av. Jiménez,7,Domingo,0,659,3,0,Media
+Calle 100,17,Lunes,1,633,5,0,Media
+Portal Norte,7,Jueves,0,628,10,0,Media
+Calle 85,11,Sábado,0,294,6,0,Baja
+CAD,14,Jueves,0,819,3,0,Baja
+Ricaurte,23,Lunes,0,268,10,0,Baja
+Calle 72,7,Martes,0,211,9,0,Media
+Portal El Dorado,14,Viernes,1,876,12,0,Media
+CAD,22,Miércoles,1,156,4,0,Baja
+Toberín,22,Martes,0,669,5,0,Baja
+Calle 100,13,Viernes,0,977,2,0,Baja
+Calle 45,13,Lunes,0,839,4,0,Baja
+Calle 85,10,Sábado,0,772,8,0,Media
+Toberín,7,Sábado,1,608,2,0,Media
+Ricaurte,22,Martes,0,92,6,0,Baja
+Portal Norte,16,Martes,0,732,3,0,Baja
+Av. Jiménez,18,Viernes,0,997,5,1,Alta
+Calle 127,18,Lunes,0,996,7,0,Media
+Calle 45,12,Miércoles,0,768,3,0,Baja
+Portal Norte,20,Martes,0,990,9,0,Alta
+Calle 100,12,Lunes,0,458,7,0,Baja
+Toberín,13,Miércoles,0,459,12,1,Media
+Av. Jiménez,15,Lunes,0,317,4,0,Baja
+Calle 85,6,Lunes,0,403,7,0,Media
+Av. Jiménez,8,Jueves,0,244,6,0,Baja
+Calle 45,5,Viernes,1,601,12,0,Baja
+Portal El Dorado,11,Miércoles,0,730,7,0,Baja
+CAD,8,Sábado,1,569,6,0,Media
+Calle 72,17,Sábado,0,180,5,0,Baja
+Calle 45,10,Viernes,0,465,10,0,Baja
+Calle 85,14,Martes,0,643,11,0,Baja
+Calle 26,19,Jueves,0,573,9,0,Media
+Portal El Dorado,10,Sábado,0,577,12,0,Baja
+Calle 72,7,Domingo,1,290,12,0,Media
+Calle 100,9,Lunes,0,536,11,0,Media
+Toberín,19,Jueves,0,639,5,0,Media
+Calle 45,20,Jueves,0,721,2,1,Alta
+Toberín,18,Martes,0,762,10,0,Alta
+Av. Jiménez,12,Domingo,0,186,9,0,Baja
+Av. Jiménez,15,Domingo,0,677,10,0,Baja
+Av. Jiménez,19,Martes,0,536,9,0,Media
+Calle 100,13,Domingo,0,546,12,0,Baja
+Calle 26,7,Sábado,0,328,7,0,Baja
+Av. Jiménez,7,Martes,0,442,4,0,Media
+Toberín,18,Jueves,0,527,8,0,Media
+Calle 45,17,Domingo,0,762,2,1,Alta
+Ricaurte,17,Jueves,0,410,6,0,Media
+Calle 45,22,Sábado,0,869,11,1,Media
+Calle 26,12,Miércoles,0,79,8,0,Baja
+CAD,17,Sábado,0,528,4,1,Media
+Av. Jiménez,5,Jueves,0,728,2,0,Baja
+Calle 45,9,Domingo,0,101,6,0,Baja
+Calle 100,19,Miércoles,0,950,8,0,Alta
+Calle 45,13,Domingo,0,69,10,0,Baja
+Calle 72,12,Sábado,0,717,2,0,Baja
+Calle 100,11,Domingo,0,206,5,0,Baja
+CAD,8,Viernes,1,526,6,0,Media
+Calle 127,8,Domingo,0,368,3,0,Media
+Calle 85,23,Sábado,1,434,8,1,Media
+Calle 100,7,Viernes,0,692,5,0,Media
+Calle 85,8,Domingo,1,851,2,0,Media
+Calle 45,16,Lunes,0,399,2,0,Baja
+Calle 26,8,Jueves,1,700,9,0,Alta
+Calle 45,10,Sábado,0,716,6,0,Baja
+Av. Jiménez,20,Jueves,0,798,11,0,Alta
+Calle 100,7,Miércoles,0,299,9,0,Media
+CAD,17,Miércoles,0,921,7,0,Media
+Calle 100,16,Domingo,0,336,11,0,Baja
+Calle 85,22,Lunes,0,245,3,0,Baja
+Calle 45,20,Viernes,0,757,9,0,Alta
+Calle 26,19,Domingo,0,351,5,0,Media
+Calle 100,14,Sábado,0,534,10,0,Baja
+Calle 45,22,Miércoles,0,514,6,0,Baja
+Calle 100,8,Sábado,0,172,10,1,Media
+Portal El Dorado,10,Martes,0,545,6,0,Baja
+Av. Jiménez,14,Lunes,0,353,5,0,Baja
+Calle 85,5,Sábado,0,330,2,1,Baja
+Av. Jiménez,14,Sábado,1,703,9,0,Media
+Portal Norte,23,Miércoles,0,501,7,0,Baja
+Portal Norte,13,Domingo,0,891,3,0,Baja
+Toberín,23,Sábado,0,205,4,0,Baja
+Calle 85,7,Martes,0,832,8,0,Alta
+Ricaurte,12,Domingo,0,511,9,0,Baja
+Ricaurte,18,Miércoles,0,111,11,1,Media
+Toberín,11,Sábado,0,726,3,0,Baja
+Calle 127,22,Lunes,0,468,9,0,Baja
+Calle 26,14,Lunes,0,773,6,0,Baja
+Calle 26,7,Sábado,0,320,12,0,Media
+Calle 100,18,Lunes,0,713,4,1,Alta
+Calle 127,7,Lunes,0,364,11,0,Media
+Ricaurte,14,Jueves,0,755,6,0,Baja
+Calle 85,21,Viernes,0,132,11,0,Baja
+Calle 45,15,Viernes,0,143,5,1,Baja
+Ricaurte,23,Lunes,1,738,6,0,Baja
+Calle 127,20,Viernes,0,988,6,0,Media
+Ricaurte,18,Sábado,0,143,9,0,Media
+Calle 72,15,Sábado,0,214,7,0,Baja
+Calle 26,14,Sábado,1,883,10,0,Media
+Toberín,15,Miércoles,0,841,8,1,Media
+Portal Norte,22,Jueves,0,242,10,0,Baja
+Calle 26,19,Domingo,0,323,10,0,Media
+Calle 85,19,Sábado,0,79,12,0,Media
+Calle 100,10,Miércoles,0,615,8,0,Baja
+Toberín,19,Lunes,0,207,9,1,Media
+Calle 85,21,Sábado,0,904,9,1,Media
+Calle 100,19,Viernes,0,245,11,0,Media
+Calle 127,7,Miércoles,0,924,8,0,Alta
+Av. Jiménez,13,Domingo,0,793,6,0,Baja
+Ricaurte,20,Domingo,0,601,9,0,Media
+Av. Jiménez,22,Jueves,0,379,5,1,Baja
+Calle 100,23,Jueves,0,844,8,0,Media
+Portal El Dorado,20,Sábado,1,440,8,1,Alta
+CAD,9,Jueves,1,179,10,1,Media
+Calle 72,8,Domingo,0,152,10,1,Media
+Portal Norte,9,Jueves,0,208,3,0,Baja
+Calle 85,15,Viernes,0,715,3,1,Media
+CAD,22,Jueves,1,691,9,1,Media
+Portal Norte,7,Martes,0,993,6,1,Alta
+Portal El Dorado,7,Jueves,1,828,12,0,Alta
+Toberín,19,Martes,0,975,2,0,Media
+Portal Norte,14,Miércoles,0,199,5,0,Baja
+Ricaurte,10,Martes,0,674,8,0,Baja
+Calle 100,20,Viernes,0,522,12,0,Media
+Calle 85,5,Domingo,0,344,12,0,Baja
+Toberín,19,Miércoles,1,356,12,1,Alta
+Portal El Dorado,13,Jueves,0,253,8,1,Baja
+Toberín,12,Jueves,0,638,6,1,Baja
+Calle 85,5,Domingo,0,331,2,0,Baja
+CAD,6,Viernes,0,902,6,0,Media
+Calle 100,16,Martes,0,685,6,0,Baja
+Portal El Dorado,9,Sábado,0,692,12,0,Media
+Calle 26,6,Viernes,0,184,3,1,Media
+Calle 72,18,Martes,0,855,10,1,Alta
+Calle 72,21,Viernes,1,900,4,0,Baja
+Calle 26,14,Sábado,0,873,3,0,Baja
+Toberín,9,Domingo,1,930,12,0,Alta
+Calle 45,22,Miércoles,0,454,2,0,Baja
+Toberín,19,Miércoles,0,738,6,0,Media
+CAD,16,Lunes,0,532,2,0,Baja
+Av. Jiménez,15,Viernes,0,114,12,0,Baja
+Portal El Dorado,14,Sábado,0,193,2,1,Baja
+Calle 85,20,Lunes,0,958,10,0,Alta
+Calle 26,16,Sábado,1,763,10,0,Media
+Portal El Dorado,9,Jueves,0,903,9,0,Alta
+Calle 85,6,Sábado,0,504,9,1,Alta
+Calle 72,8,Sábado,0,973,12,0,Alta
+Calle 45,13,Martes,1,918,9,0,Media
+Calle 100,5,Lunes,0,299,4,0,Baja
+Calle 100,7,Domingo,0,262,11,0,Media
+Calle 100,15,Domingo,0,972,11,0,Media
+Calle 127,9,Viernes,0,228,3,0,Baja
+Portal Norte,9,Lunes,0,857,5,0,Media
+Portal Norte,10,Miércoles,0,809,8,0,Media
+Portal El Dorado,7,Jueves,0,420,10,0,Media
+Calle 26,21,Martes,1,94,12,0,Baja
+Calle 26,5,Lunes,1,917,8,0,Media
+Toberín,20,Sábado,1,125,3,0,Baja
+Calle 127,7,Martes,0,698,11,0,Media
+Calle 72,17,Viernes,0,514,10,0,Media
+Toberín,8,Domingo,0,948,10,0,Alta
+Calle 100,18,Jueves,0,473,7,0,Media
+Calle 45,18,Sábado,0,487,7,0,Media
+Calle 72,9,Sábado,1,118,3,0,Baja
+Toberín,18,Lunes,0,431,4,0,Media
+Ricaurte,22,Viernes,0,175,8,0,Baja
+CAD,18,Domingo,1,102,6,0,Baja
+Calle 72,8,Viernes,0,208,12,0,Media
+Toberín,16,Domingo,0,167,6,0,Baja
+Calle 45,22,Domingo,0,678,12,0,Baja
+Portal Norte,13,Lunes,0,769,6,1,Media
+Calle 72,5,Martes,0,629,12,0,Baja
+Calle 127,5,Lunes,0,270,8,0,Baja
+Calle 72,10,Miércoles,0,382,11,0,Baja
+Portal Norte,9,Martes,0,100,12,0,Media
+Calle 26,18,Jueves,0,474,6,0,Media
+Av. Jiménez,8,Miércoles,0,340,12,0,Media
+Calle 26,21,Sábado,0,275,8,1,Baja
+Portal Norte,5,Martes,0,266,4,0,Baja
+Calle 85,15,Lunes,0,814,8,0,Media
+Calle 45,22,Sábado,0,622,12,0,Baja
+Toberín,17,Domingo,0,496,2,0,Media
+Toberín,15,Viernes,0,464,12,0,Baja
+Toberín,17,Lunes,1,225,11,0,Media
+Portal El Dorado,16,Lunes,0,158,5,0,Baja
+Calle 45,21,Lunes,0,367,7,0,Baja
+Calle 127,7,Viernes,0,593,10,0,Media
+Calle 72,16,Sábado,1,710,4,0,Baja
+Calle 127,13,Martes,0,206,12,0,Baja
+CAD,20,Jueves,0,828,11,0,Alta
+Ricaurte,15,Domingo,1,373,4,0,Baja
+Calle 26,19,Sábado,0,331,11,0,Media
+Av. Jiménez,7,Miércoles,0,88,2,0,Baja
+Calle 85,7,Sábado,0,925,3,0,Media
+Av. Jiménez,17,Jueves,0,860,2,0,Media
+Ricaurte,11,Miércoles,0,563,4,1,Baja
+Calle 26,8,Domingo,0,401,3,0,Media
+Calle 127,6,Martes,0,499,10,0,Media
+Calle 127,16,Miércoles,1,446,8,0,Baja
+CAD,6,Domingo,0,392,3,0,Media
+Av. Jiménez,17,Miércoles,0,922,12,1,Alta
+Ricaurte,9,Miércoles,0,729,4,1,Alta
+Calle 85,17,Martes,0,136,6,0,Baja
+CAD,15,Domingo,0,769,12,1,Media
+Toberín,18,Viernes,0,421,6,0,Media
+Calle 100,15,Domingo,0,281,4,0,Baja
+Calle 85,8,Viernes,0,905,10,0,Alta
+Calle 72,9,Viernes,0,216,4,0,Baja
+Ricaurte,10,Sábado,0,470,7,0,Baja
+Calle 100,19,Viernes,0,816,9,0,Alta
+Calle 100,14,Domingo,0,975,5,0,Baja
+Ricaurte,19,Jueves,0,846,8,0,Alta
+Calle 45,10,Domingo,0,669,4,1,Baja
+Portal Norte,20,Domingo,0,155,10,1,Media
+Calle 85,7,Domingo,0,510,10,0,Media
+Calle 45,7,Martes,0,955,7,1,Alta
+Calle 45,6,Jueves,0,291,8,1,Media
+Calle 72,12,Lunes,0,151,12,0,Baja
+Calle 127,9,Lunes,0,899,9,0,Alta
+Calle 127,20,Jueves,0,977,3,0,Media
+Calle 100,9,Viernes,1,673,10,0,Media
+Calle 85,12,Miércoles,0,294,8,0,Baja
+Ricaurte,19,Lunes,0,976,9,0,Alta
+Portal Norte,21,Viernes,0,197,6,0,Baja
+Ricaurte,16,Martes,0,241,12,0,Baja
+Av. Jiménez,16,Lunes,1,607,10,0,Baja
+Av. Jiménez,22,Lunes,0,531,2,0,Baja
+Calle 72,13,Sábado,0,857,3,0,Baja
+Portal El Dorado,8,Domingo,0,824,7,0,Media
+Calle 72,22,Miércoles,0,229,12,0,Baja
+Portal El Dorado,20,Sábado,0,188,3,0,Baja
+Calle 26,6,Miércoles,0,860,5,1,Alta
+Calle 72,14,Viernes,0,884,10,0,Media
+Portal Norte,11,Miércoles,0,849,2,1,Media
+Calle 72,13,Lunes,0,497,8,0,Baja
+Calle 45,15,Martes,0,559,7,1,Baja
+Av. Jiménez,13,Domingo,0,484,3,0,Baja
+Calle 127,22,Miércoles,0,131,7,0,Baja
+Calle 85,19,Viernes,0,220,9,0,Media
+Portal Norte,16,Viernes,1,331,12,1,Baja
+Portal Norte,7,Sábado,0,422,10,0,Media
+CAD,10,Lunes,0,672,12,0,Baja
+Portal Norte,9,Lunes,0,710,7,0,Media
+Ricaurte,6,Viernes,0,510,7,0,Media
+Toberín,23,Martes,0,457,7,0,Baja
+Calle 100,8,Lunes,0,561,10,0,Media
+Av. Jiménez,8,Miércoles,0,770,9,0,Alta
+Ricaurte,14,Sábado,1,552,5,0,Baja
+Toberín,19,Martes,0,505,3,0,Media
+Calle 72,16,Sábado,0,605,6,1,Baja
+Calle 127,10,Domingo,0,279,3,1,Baja
+Calle 127,12,Domingo,0,419,10,0,Baja
+Calle 26,22,Martes,0,138,3,0,Baja
+Portal El Dorado,20,Viernes,0,469,11,0,Media
+Calle 72,7,Jueves,0,579,7,0,Media
+Av. Jiménez,23,Martes,0,182,8,0,Baja
+Portal Norte,8,Viernes,0,218,4,0,Baja
+Portal El Dorado,12,Miércoles,1,581,6,0,Baja
+Calle 85,11,Sábado,1,331,4,0,Baja
+Ricaurte,22,Lunes,0,222,11,1,Baja
+Calle 127,10,Sábado,0,973,11,0,Media
+Ricaurte,6,Domingo,0,133,2,1,Media
+Ricaurte,13,Sábado,0,635,8,0,Baja
+Portal Norte,20,Sábado,0,707,6,0,Media
+CAD,17,Miércoles,0,755,2,0,Media
+Calle 45,20,Jueves,0,671,4,0,Media
+Portal El Dorado,15,Sábado,1,403,8,0,Baja
+Calle 72,21,Viernes,0,297,9,0,Baja
+Calle 26,12,Martes,0,347,8,1,Baja
+Calle 45,12,Domingo,1,883,7,1,Media
+Portal El Dorado,15,Martes,0,560,10,0,Baja
+Calle 85,20,Lunes,0,452,10,0,Media
+Calle 100,11,Viernes,0,101,6,0,Baja
+CAD,20,Miércoles,0,917,3,0,Media
+Calle 85,16,Domingo,0,96,8,0,Baja
+Av. Jiménez,11,Miércoles,0,125,8,0,Baja
+Av. Jiménez,13,Domingo,1,746,11,0,Media
+Toberín,17,Miércoles,0,397,10,1,Alta
+Calle 127,11,Viernes,0,562,2,0,Baja
+Calle 127,15,Domingo,0,517,4,0,Baja
+Av. Jiménez,9,Miércoles,1,376,4,0,Media
+Ricaurte,14,Viernes,0,898,10,0,Media
+Portal El Dorado,23,Miércoles,0,67,7,0,Baja
+Toberín,18,Viernes,0,970,12,0,Alta
+Calle 26,13,Sábado,0,844,11,0,Media
+Portal El Dorado,6,Viernes,0,586,12,0,Media
+Calle 45,9,Domingo,0,82,11,1,Media
+Toberín,11,Lunes,0,478,4,0,Baja
+Calle 100,18,Viernes,0,992,9,1,Alta
+Portal El Dorado,6,Sábado,0,262,10,0,Media
+CAD,20,Viernes,0,227,9,1,Media
+Calle 72,22,Miércoles,0,938,12,0,Media
+Portal El Dorado,13,Viernes,0,302,6,0,Baja
+Calle 100,14,Domingo,0,262,9,0,Baja
+Calle 72,22,Domingo,0,344,3,0,Baja
+Av. Jiménez,17,Jueves,0,841,4,0,Media
+Calle 85,7,Miércoles,1,721,6,0,Media
+Calle 100,11,Domingo,0,625,6,0,Baja
+Ricaurte,23,Martes,0,735,10,0,Media
+Calle 100,6,Lunes,0,784,9,0,Alta
+Calle 127,5,Viernes,1,211,8,0,Baja
+Calle 26,20,Sábado,0,344,7,0,Baja
+Portal Norte,7,Sábado,0,597,2,1,Media
+Calle 127,18,Domingo,0,991,2,1,Alta
+Calle 45,20,Martes,1,943,6,1,Alta
+Portal Norte,14,Viernes,0,1000,7,0,Baja
+CAD,22,Viernes,0,187,10,0,Baja
+Calle 100,8,Miércoles,0,519,12,0,Media
+Calle 127,5,Sábado,0,352,11,0,Baja
+Calle 100,10,Viernes,0,968,8,0,Media
+Av. Jiménez,15,Lunes,0,147,4,1,Baja
+Calle 26,15,Martes,0,442,5,0,Baja
+Calle 85,15,Miércoles,0,636,2,0,Baja
+Calle 72,12,Lunes,0,526,6,0,Baja
+CAD,21,Sábado,0,756,3,0,Baja
+Calle 85,16,Viernes,0,186,9,0,Baja
+Portal El Dorado,16,Jueves,0,984,9,0,Media
+CAD,11,Domingo,0,822,11,1,Media
+Toberín,21,Jueves,0,420,3,1,Baja
+Toberín,6,Domingo,0,567,5,0,Media
+Calle 127,10,Miércoles,0,502,3,0,Baja
+Portal El Dorado,23,Jueves,0,572,9,0,Baja
+Calle 26,9,Viernes,0,627,2,0,Media
+CAD,14,Sábado,0,310,2,0,Baja
+Ricaurte,7,Lunes,0,767,3,0,Media
+Portal Norte,7,Jueves,0,468,4,0,Media
+CAD,18,Miércoles,1,441,9,1,Alta
+Calle 45,17,Lunes,0,727,10,0,Alta
+Calle 72,8,Martes,1,452,10,0,Media
+Calle 100,5,Domingo,0,355,9,0,Baja
+Av. Jiménez,18,Viernes,0,285,5,0,Baja
+Calle 127,13,Martes,1,792,3,0,Baja
+CAD,18,Viernes,0,954,2,0,Media
+Toberín,8,Viernes,0,662,12,0,Media
+Portal Norte,12,Sábado,0,499,5,0,Baja
+Portal Norte,9,Viernes,1,289,11,0,Media
+Ricaurte,15,Martes,0,196,12,0,Baja
+Calle 45,14,Miércoles,0,655,4,0,Baja
+Calle 45,22,Jueves,0,402,12,0,Baja
+Av. Jiménez,15,Sábado,0,202,6,0,Baja
+Av. Jiménez,20,Martes,0,357,4,0,Media
+Portal Norte,22,Jueves,1,620,10,0,Baja
+Calle 100,13,Martes,0,130,9,0,Baja
+Toberín,22,Sábado,0,102,6,0,Baja
+Ricaurte,6,Domingo,0,873,11,0,Alta
+Av. Jiménez,11,Jueves,0,978,7,0,Baja
+Portal Norte,11,Martes,1,170,9,1,Baja
+Portal El Dorado,11,Jueves,1,615,7,0,Baja
+Calle 45,19,Viernes,0,365,6,0,Media
+Calle 26,19,Lunes,0,789,9,0,Alta
+Calle 72,11,Miércoles,0,96,11,1,Baja
+Portal El Dorado,9,Lunes,0,648,11,0,Media
+Calle 85,9,Martes,0,438,11,0,Media
+Calle 26,22,Sábado,1,395,6,0,Baja
+Calle 26,20,Jueves,0,864,7,0,Media
+Portal El Dorado,22,Jueves,0,960,10,1,Media
+Portal Norte,21,Lunes,0,126,12,0,Baja
+Portal Norte,18,Martes,0,286,3,0,Baja
+Portal Norte,11,Viernes,0,111,11,0,Baja
+Ricaurte,20,Sábado,0,56,10,0,Media
+Portal Norte,5,Viernes,0,598,6,0,Baja
+Portal El Dorado,18,Domingo,1,233,3,1,Media
+Av. Jiménez,9,Martes,0,589,6,0,Media
+Calle 85,17,Lunes,0,465,9,0,Media
+Portal El Dorado,12,Miércoles,0,918,3,0,Baja
+CAD,6,Lunes,0,436,10,0,Media
+CAD,5,Sábado,0,561,8,0,Baja
+Calle 72,23,Domingo,1,966,10,1,Media
+Calle 100,11,Domingo,0,630,9,0,Baja
+Toberín,13,Viernes,0,83,4,1,Baja
+Calle 72,5,Martes,0,820,8,1,Media
+Calle 85,10,Viernes,0,904,8,0,Media
+Av. Jiménez,15,Jueves,0,193,3,0,Baja
+Calle 72,6,Lunes,0,908,3,0,Media
+Ricaurte,17,Domingo,0,699,6,0,Media
+Calle 26,20,Martes,0,434,8,0,Media
+Ricaurte,17,Lunes,0,352,5,0,Media
+Toberín,13,Martes,0,852,12,0,Media
+Calle 45,15,Miércoles,0,55,6,0,Baja
+Calle 85,8,Martes,0,491,9,0,Media
+Av. Jiménez,18,Lunes,0,412,10,0,Media
+Ricaurte,15,Domingo,0,348,8,0,Baja
+Toberín,22,Martes,0,223,12,0,Baja
+Calle 127,13,Miércoles,0,199,3,0,Baja
+Calle 85,18,Miércoles,0,128,7,0,Baja
+Calle 100,20,Viernes,0,518,3,0,Media
+Portal Norte,17,Miércoles,0,439,7,0,Media
+Calle 45,9,Miércoles,0,761,5,0,Media
+Calle 127,17,Miércoles,0,761,12,0,Alta
+Ricaurte,12,Miércoles,0,886,8,0,Media
+Ricaurte,11,Viernes,1,234,12,0,Baja
+Portal Norte,19,Sábado,0,866,6,0,Media
+Toberín,18,Sábado,0,698,6,0,Media
+CAD,9,Sábado,0,436,3,0,Media
+Ricaurte,20,Viernes,0,568,8,0,Media
+Calle 72,22,Viernes,0,137,3,0,Baja
+CAD,16,Martes,0,95,11,1,Baja
+CAD,17,Domingo,0,865,8,0,Alta
+Toberín,13,Martes,0,581,10,0,Baja
+Ricaurte,12,Jueves,0,524,12,0,Baja
+Av. Jiménez,9,Miércoles,1,544,3,0,Media
+Toberín,8,Domingo,1,195,7,0,Baja
+Calle 26,11,Viernes,0,537,3,0,Baja
+Portal El Dorado,19,Miércoles,0,95,3,0,Baja
+Calle 72,8,Sábado,0,808,5,0,Media
+Av. Jiménez,10,Miércoles,0,523,5,0,Baja
+CAD,10,Martes,0,492,8,0,Baja
+Ricaurte,11,Jueves,0,448,2,0,Baja
+Calle 100,13,Domingo,0,865,3,0,Baja
+Av. Jiménez,10,Miércoles,0,518,3,0,Baja
+Calle 26,21,Sábado,0,447,11,0,Baja
+Toberín,16,Miércoles,0,682,4,0,Baja
+Portal El Dorado,14,Viernes,0,738,4,0,Baja
+Calle 100,14,Lunes,0,760,4,0,Baja
+Calle 45,9,Viernes,0,240,9,0,Media
+Portal El Dorado,10,Viernes,0,345,4,0,Baja
+Calle 26,6,Domingo,0,59,9,0,Media
+Calle 45,22,Viernes,0,468,12,0,Baja
+Portal El Dorado,19,Jueves,0,628,2,0,Media
+Calle 100,14,Lunes,0,600,6,0,Baja
+Calle 26,23,Sábado,0,557,10,0,Baja
+Ricaurte,8,Miércoles,0,893,7,0,Media
+Portal Norte,19,Viernes,0,485,3,0,Media
+CAD,12,Miércoles,0,83,9,0,Baja
+Toberín,19,Domingo,1,844,5,0,Media
+Portal El Dorado,23,Sábado,0,777,11,0,Media
+Calle 127,9,Domingo,0,261,2,0,Baja
+Av. Jiménez,13,Viernes,0,381,6,0,Baja
+Calle 85,21,Sábado,0,188,8,1,Baja
+Calle 85,9,Sábado,0,305,4,0,Baja
+Calle 100,17,Jueves,0,697,6,0,Media
+Calle 45,19,Lunes,0,951,3,0,Media
+Portal El Dorado,13,Sábado,1,427,9,1,Media
+Calle 72,23,Lunes,0,917,3,0,Baja
+Calle 26,16,Domingo,0,597,8,0,Baja
+Calle 45,11,Jueves,0,898,6,0,Baja
+Ricaurte,9,Viernes,0,857,7,1,Alta
+Portal Norte,6,Lunes,0,906,9,0,Alta
+Calle 127,19,Jueves,0,488,5,1,Media
+Calle 127,14,Martes,0,947,6,0,Baja
+Calle 72,13,Lunes,0,975,12,0,Media
+Calle 45,14,Sábado,0,289,8,0,Baja
+Portal El Dorado,8,Lunes,0,129,4,0,Baja
+Av. Jiménez,19,Lunes,0,401,3,1,Media
+Calle 45,9,Jueves,0,442,3,0,Media
+Toberín,8,Miércoles,0,356,4,0,Media
+Calle 127,9,Lunes,0,58,11,0,Media
+Calle 26,16,Sábado,0,816,4,1,Media
+Ricaurte,19,Domingo,0,968,3,0,Media
+Toberín,23,Sábado,0,489,7,0,Baja
+Calle 100,13,Sábado,0,616,11,0,Baja
+Ricaurte,14,Domingo,1,77,12,1,Baja
+Calle 100,21,Viernes,0,815,8,0,Media
+Portal Norte,12,Jueves,0,296,9,0,Baja
+Toberín,21,Lunes,1,374,4,0,Baja
+Ricaurte,18,Miércoles,0,226,9,1,Media
+Toberín,5,Viernes,0,318,5,0,Baja
+Portal Norte,17,Viernes,0,779,10,0,Alta
+Calle 45,17,Lunes,0,600,11,0,Media
+Toberín,14,Lunes,0,258,4,0,Baja
+Calle 45,23,Sábado,0,715,12,0,Media
+Calle 85,18,Sábado,1,294,2,0,Baja
+Calle 45,8,Jueves,0,106,6,0,Baja
+CAD,10,Lunes,0,190,2,0,Baja
+Calle 72,21,Viernes,0,788,6,0,Baja
+Calle 127,13,Sábado,0,839,2,0,Baja
+Calle 45,13,Viernes,0,779,11,0,Media
+Calle 26,19,Viernes,0,561,11,0,Media
+Calle 127,13,Domingo,0,637,12,0,Baja
+Calle 100,21,Lunes,0,933,2,0,Baja
+Calle 26,16,Jueves,1,233,2,0,Baja
+Portal El Dorado,18,Martes,0,476,7,0,Media
+Toberín,23,Miércoles,0,739,2,0,Baja
+Av. Jiménez,6,Jueves,0,526,6,0,Media
+Calle 85,15,Lunes,0,58,7,0,Baja
+Ricaurte,14,Sábado,0,525,7,0,Baja
+Calle 26,11,Sábado,1,828,5,0,Baja
+Calle 45,5,Martes,0,701,2,1,Media
+Portal Norte,17,Domingo,0,364,3,0,Media
+Calle 100,18,Jueves,1,195,6,0,Baja
+Calle 100,21,Jueves,0,431,9,1,Media
+Toberín,23,Lunes,0,702,8,0,Media
+Ricaurte,6,Jueves,0,183,5,0,Baja
+Calle 72,17,Sábado,0,384,7,0,Media
+Calle 100,7,Martes,0,838,11,0,Alta
+Toberín,10,Jueves,0,466,3,0,Baja
+Calle 100,19,Miércoles,0,922,3,0,Media
+CAD,14,Domingo,0,667,2,0,Baja
+Calle 72,9,Lunes,0,414,8,0,Media
+CAD,14,Miércoles,0,228,2,1,Baja
+Calle 26,22,Sábado,0,146,9,0,Baja
+Calle 127,8,Lunes,0,849,5,0,Media
+Calle 45,16,Sábado,0,710,3,0,Baja
+Calle 85,7,Lunes,1,252,12,0,Media
+Calle 127,7,Domingo,0,389,3,0,Media
+Calle 26,6,Martes,1,493,8,0,Media
+Calle 45,18,Martes,0,980,4,0,Media
+Calle 26,9,Lunes,0,681,5,0,Media
+Calle 26,18,Viernes,0,139,6,0,Baja
+Calle 45,11,Sábado,0,588,5,0,Baja
+Av. Jiménez,5,Jueves,0,417,9,0,Baja
+Calle 26,16,Viernes,0,447,6,0,Baja
+Calle 72,12,Lunes,0,847,6,0,Baja
+Calle 26,21,Miércoles,0,288,4,0,Baja
+CAD,12,Miércoles,0,860,2,0,Baja
+Calle 100,23,Domingo,1,447,7,1,Baja
+Calle 127,10,Martes,0,875,7,1,Media
+Portal Norte,16,Viernes,0,626,5,0,Baja
+Calle 26,22,Miércoles,0,88,3,0,Baja
+Ricaurte,12,Lunes,0,50,7,1,Baja
+Calle 100,9,Miércoles,0,990,7,0,Media
+Calle 127,23,Sábado,1,842,3,0,Baja
+Calle 72,7,Miércoles,0,728,8,0,Alta
+Calle 72,14,Miércoles,0,211,8,0,Baja
+Calle 26,15,Martes,0,625,11,0,Baja
+Calle 100,23,Domingo,0,364,6,0,Baja
+Portal El Dorado,5,Sábado,1,450,11,0,Baja
+Ricaurte,15,Domingo,1,276,12,0,Baja
+Calle 26,9,Miércoles,0,293,7,1,Media
+Calle 127,7,Domingo,0,704,7,0,Media
+Calle 85,11,Martes,0,408,6,0,Baja
+Portal El Dorado,5,Lunes,0,800,8,1,Media
+Calle 45,20,Jueves,0,434,3,0,Media
+Ricaurte,12,Martes,0,868,2,0,Baja
+Calle 72,13,Lunes,0,224,8,0,Baja
+Toberín,22,Lunes,0,678,9,0,Baja
+Calle 45,10,Viernes,0,210,2,0,Baja
+Calle 100,11,Jueves,0,789,10,0,Media
+Calle 85,14,Martes,0,452,11,0,Baja
+Calle 26,9,Lunes,0,487,3,0,Media
+CAD,20,Martes,0,261,4,0,Baja
+Toberín,20,Domingo,0,853,8,0,Alta
+CAD,13,Lunes,0,446,4,0,Baja
+Calle 45,16,Martes,0,319,9,0,Baja
+Calle 100,13,Viernes,0,820,12,0,Media
+CAD,16,Domingo,0,824,11,0,Media
+Portal Norte,17,Domingo,0,598,12,1,Alta
+Calle 26,23,Martes,0,130,8,1,Baja
+Portal El Dorado,6,Viernes,0,579,11,0,Media
+Ricaurte,9,Lunes,1,509,4,1,Media
+Calle 127,11,Domingo,0,93,8,0,Baja
+CAD,18,Martes,1,692,4,0,Media
+Calle 85,15,Sábado,1,118,3,0,Baja
+Calle 45,22,Miércoles,0,582,9,1,Media
+Portal Norte,23,Viernes,0,165,8,0,Baja
+Ricaurte,23,Viernes,0,152,3,0,Baja
+Toberín,14,Domingo,0,402,8,0,Baja
+CAD,20,Viernes,0,88,4,0,Baja
+Calle 127,17,Lunes,0,950,7,0,Media
+Portal Norte,20,Miércoles,0,70,7,0,Baja
+Calle 85,14,Miércoles,0,928,12,0,Media
+Calle 100,9,Miércoles,1,503,7,0,Media
+Calle 45,7,Martes,0,985,8,0,Alta
+Av. Jiménez,16,Domingo,0,860,4,0,Baja
+Portal El Dorado,21,Jueves,0,921,10,1,Media
+Portal Norte,10,Martes,0,255,2,0,Baja
+Calle 26,6,Miércoles,0,330,7,0,Baja
+Av. Jiménez,17,Sábado,1,747,2,0,Media
+Calle 26,19,Martes,1,535,11,0,Media
+Calle 72,10,Domingo,0,816,3,0,Baja
+Calle 45,6,Martes,0,848,5,1,Alta
+CAD,12,Sábado,0,717,8,0,Media
+CAD,5,Jueves,1,712,4,0,Baja
+Portal Norte,12,Miércoles,0,362,12,0,Baja
+Calle 45,16,Jueves,0,527,6,0,Baja
+Ricaurte,17,Viernes,0,573,12,1,Alta
+Calle 72,22,Sábado,0,339,6,0,Baja
+Calle 26,7,Miércoles,1,705,7,1,Alta
+Calle 85,14,Martes,0,833,5,1,Media
+Ricaurte,17,Sábado,0,193,2,0,Baja
+Calle 85,13,Jueves,0,804,2,0,Baja
+Ricaurte,11,Miércoles,0,277,12,0,Baja
+Calle 26,16,Viernes,0,224,12,1,Baja
+Calle 127,14,Lunes,0,808,6,0,Baja
+Av. Jiménez,10,Sábado,0,720,3,0,Baja
+Calle 100,14,Jueves,0,389,7,0,Baja
+Calle 85,19,Domingo,0,104,12,0,Media
+Ricaurte,7,Jueves,0,562,3,1,Media
+Calle 45,21,Miércoles,0,941,4,0,Baja
+Calle 100,15,Jueves,1,964,9,0,Media
+Portal El Dorado,10,Domingo,0,390,12,1,Media
+Calle 72,6,Lunes,0,264,4,0,Baja
+Calle 127,20,Domingo,0,140,4,0,Baja
+CAD,18,Jueves,0,538,8,0,Media
+Av. Jiménez,11,Sábado,0,64,7,0,Baja
+Av. Jiménez,11,Lunes,0,691,5,0,Baja
+Calle 72,14,Martes,0,565,11,0,Baja
+Toberín,6,Miércoles,1,516,10,0,Media
+Calle 72,18,Sábado,1,400,9,0,Media
+Calle 100,10,Domingo,0,283,5,0,Baja
+Calle 127,11,Sábado,0,566,4,0,Baja
+Portal El Dorado,6,Jueves,0,311,10,0,Media
+Ricaurte,6,Sábado,0,906,2,0,Media
+Toberín,18,Jueves,0,610,6,0,Media
+Calle 127,11,Sábado,0,59,6,0,Baja
+Toberín,21,Miércoles,0,767,4,0,Baja
+Toberín,21,Sábado,0,339,3,0,Baja
+Calle 26,11,Viernes,0,319,10,1,Baja
+Calle 72,18,Miércoles,0,611,9,1,Alta
+Portal El Dorado,20,Miércoles,0,63,12,0,Media
+Toberín,23,Sábado,0,142,10,0,Baja
+Portal El Dorado,8,Miércoles,0,517,6,0,Media
+Portal Norte,8,Domingo,0,90,6,0,Baja
+CAD,15,Jueves,0,147,2,0,Baja
+Calle 127,10,Miércoles,0,498,11,0,Baja
+Portal El Dorado,7,Miércoles,0,237,3,0,Baja
+Calle 26,13,Domingo,0,921,9,0,Media
+CAD,10,Lunes,0,793,2,1,Media
+Calle 127,8,Jueves,1,544,11,0,Media
+Calle 127,17,Domingo,0,79,12,1,Media
+Portal El Dorado,9,Jueves,1,165,8,0,Media
+Toberín,13,Sábado,0,771,12,0,Media
+Portal El Dorado,23,Sábado,0,735,7,0,Baja
+Portal El Dorado,8,Jueves,0,304,9,0,Media
+CAD,17,Martes,0,621,11,0,Media
+CAD,10,Viernes,0,922,9,1,Media
+Toberín,20,Miércoles,0,334,2,0,Baja
+Av. Jiménez,17,Jueves,0,130,9,0,Media
+Ricaurte,19,Lunes,0,507,7,0,Media
+Calle 26,5,Lunes,0,86,10,0,Baja
+Toberín,14,Viernes,0,720,12,0,Media
+Calle 72,16,Domingo,0,278,9,0,Baja
+Ricaurte,20,Sábado,0,783,9,0,Alta
+CAD,12,Lunes,0,899,12,1,Media
+Calle 85,22,Viernes,0,158,2,1,Baja
+Calle 26,9,Domingo,0,788,8,0,Alta
+Ricaurte,11,Martes,0,922,8,0,Media
+Calle 100,15,Lunes,0,97,12,0,Baja
+Ricaurte,8,Domingo,0,518,12,0,Media
+Av. Jiménez,9,Jueves,0,803,2,0,Media
+Calle 45,23,Jueves,1,849,4,0,Baja
+Calle 127,9,Lunes,0,664,11,1,Alta
+Av. Jiménez,17,Jueves,1,987,5,0,Media
+Calle 72,14,Jueves,0,191,8,0,Baja
+Portal El Dorado,21,Miércoles,0,610,7,0,Baja
+Av. Jiménez,11,Martes,0,781,6,0,Baja
+CAD,9,Sábado,0,232,10,0,Media
+CAD,15,Sábado,0,410,10,0,Baja
+Ricaurte,18,Sábado,0,911,10,0,Alta
+Calle 45,5,Viernes,0,440,4,0,Baja
+Portal Norte,11,Miércoles,0,214,6,0,Baja
+Calle 127,6,Sábado,0,258,10,0,Media
+Calle 26,8,Viernes,0,807,10,1,Alta
+Portal El Dorado,22,Jueves,0,853,6,0,Baja
+Portal Norte,17,Jueves,0,857,12,0,Alta
+Av. Jiménez,6,Lunes,0,257,11,1,Media
+Calle 26,12,Sábado,0,713,7,0,Baja
+Av. Jiménez,11,Domingo,0,248,6,0,Baja
+CAD,7,Martes,1,802,10,0,Alta
+Portal Norte,18,Miércoles,0,183,4,0,Baja
+Calle 85,5,Miércoles,0,208,2,0,Baja
+Calle 72,6,Domingo,1,680,12,0,Media
+Ricaurte,22,Miércoles,0,774,7,0,Baja
+Calle 127,21,Lunes,0,213,8,0,Baja
+Calle 45,7,Miércoles,0,268,12,0,Media
+Calle 72,14,Martes,1,683,10,0,Baja
+Av. Jiménez,5,Lunes,0,506,5,1,Baja
+Ricaurte,12,Lunes,0,378,8,1,Media
+Toberín,17,Miércoles,0,339,2,1,Media
+Calle 72,21,Domingo,0,548,2,0,Baja
+CAD,11,Miércoles,0,148,4,1,Baja
+Av. Jiménez,22,Lunes,0,265,12,0,Baja
+Calle 100,18,Domingo,0,600,8,0,Media
+Toberín,9,Lunes,0,389,2,0,Media
+Portal Norte,10,Domingo,0,122,11,0,Baja
+Calle 85,18,Jueves,0,464,8,0,Media
+Calle 45,8,Viernes,0,787,11,0,Alta
+Portal El Dorado,23,Lunes,0,124,7,1,Baja
+Toberín,14,Domingo,0,671,3,0,Baja
+Calle 26,17,Jueves,0,81,9,0,Media
+Calle 100,9,Sábado,0,866,10,0,Alta
+CAD,9,Miércoles,0,986,12,0,Alta
+Portal Norte,22,Domingo,0,176,2,0,Baja
+Ricaurte,17,Viernes,0,137,6,0,Baja
+Portal El Dorado,16,Martes,0,711,10,0,Media
+Calle 127,12,Viernes,0,248,3,0,Baja
+Ricaurte,6,Domingo,0,612,9,0,Media
+Toberín,14,Sábado,0,150,5,0,Baja
+Calle 26,15,Miércoles,0,721,5,0,Baja
+Ricaurte,7,Martes,0,511,7,0,Media
+Calle 85,23,Martes,0,423,7,1,Baja
+Calle 127,5,Miércoles,0,276,12,0,Baja
+Calle 72,9,Sábado,0,948,9,0,Alta
+Calle 72,14,Jueves,0,229,12,0,Baja
+Calle 85,9,Viernes,0,801,12,0,Alta
+Toberín,5,Domingo,0,81,11,0,Baja
+Ricaurte,11,Lunes,0,606,10,0,Baja
+Calle 127,16,Jueves,0,840,11,0,Media
+Calle 85,9,Jueves,0,142,8,0,Media
+Portal Norte,12,Domingo,1,678,12,0,Baja
+Av. Jiménez,9,Jueves,0,629,11,0,Media
+Calle 127,20,Miércoles,0,829,9,0,Alta
+Calle 85,16,Martes,0,261,10,1,Baja
+Calle 72,17,Jueves,1,952,2,0,Media
+CAD,15,Lunes,0,583,12,0,Baja
+Portal El Dorado,13,Viernes,0,228,8,0,Baja
+Calle 72,23,Sábado,0,129,10,0,Baja
+Calle 100,21,Jueves,0,938,7,0,Baja
+Calle 26,5,Viernes,0,500,4,0,Baja
+Av. Jiménez,13,Martes,0,211,7,0,Baja
+Toberín,12,Jueves,0,787,3,0,Baja
+Calle 26,20,Martes,0,712,8,0,Alta
+Portal Norte,9,Viernes,0,187,12,0,Media
+Ricaurte,9,Lunes,0,994,4,0,Media
+Calle 45,23,Sábado,0,786,12,0,Media
+Toberín,11,Jueves,0,532,9,0,Baja
+Calle 45,9,Domingo,0,835,4,0,Media
+Av. Jiménez,13,Martes,0,400,9,0,Baja
+Toberín,12,Jueves,0,161,2,0,Baja
+Av. Jiménez,18,Domingo,0,148,4,0,Baja
+Ricaurte,6,Domingo,0,820,3,0,Media
+CAD,9,Viernes,0,51,12,0,Media
+Av. Jiménez,18,Miércoles,0,764,10,0,Alta
+Calle 26,17,Miércoles,0,809,11,0,Alta
+Calle 127,13,Jueves,0,981,3,0,Baja
+Av. Jiménez,18,Miércoles,0,776,2,0,Media
+Toberín,21,Lunes,0,260,7,0,Baja
+Toberín,9,Jueves,0,309,6,1,Media
+Calle 45,23,Miércoles,0,746,8,0,Media
+Calle 45,22,Domingo,0,233,7,0,Baja
+Calle 26,13,Miércoles,0,842,8,0,Media
+CAD,8,Sábado,0,851,4,0,Media
+Av. Jiménez,17,Domingo,0,613,11,0,Media
+Portal El Dorado,6,Martes,0,701,2,0,Media
+Calle 127,20,Viernes,0,115,6,0,Baja
+Toberín,6,Sábado,0,460,11,0,Media
+Calle 85,6,Domingo,0,705,9,0,Alta
+Calle 100,21,Miércoles,0,852,11,0,Media
+Portal El Dorado,12,Viernes,0,86,7,0,Baja
+Portal Norte,10,Lunes,1,848,8,0,Media
+Calle 45,17,Viernes,0,65,3,1,Media
+Av. Jiménez,14,Sábado,0,986,11,0,Media
+Calle 85,12,Viernes,1,515,8,0,Baja
+Calle 85,10,Jueves,0,622,3,0,Baja
+Calle 72,8,Domingo,0,313,10,0,Media
+Ricaurte,13,Sábado,0,436,11,0,Baja
+Calle 100,15,Domingo,0,521,11,1,Media
+Calle 26,8,Miércoles,0,698,5,0,Media
+Calle 100,15,Jueves,1,578,10,0,Baja
+Calle 85,12,Miércoles,0,739,7,0,Baja
+Calle 127,20,Miércoles,0,965,11,0,Alta
+Portal El Dorado,11,Jueves,0,290,5,1,Baja
+Calle 100,12,Martes,0,906,11,0,Media
+Toberín,8,Lunes,0,729,9,0,Alta
+Av. Jiménez,6,Domingo,0,685,7,0,Media
+Ricaurte,13,Jueves,0,832,10,0,Media
+Calle 100,23,Martes,0,868,8,0,Media
+Av. Jiménez,6,Viernes,0,931,12,0,Alta
+Calle 26,8,Sábado,0,373,2,0,Media
+Calle 100,17,Viernes,0,420,11,1,Alta
+Calle 127,22,Miércoles,0,532,11,0,Baja
+Calle 127,20,Jueves,0,767,7,0,Media
+Calle 45,13,Jueves,0,184,11,0,Baja
+Toberín,13,Domingo,0,492,8,0,Baja
+Portal El Dorado,9,Jueves,0,230,8,0,Media
+CAD,21,Viernes,0,854,9,0,Media
+Av. Jiménez,23,Lunes,0,757,4,0,Baja
+Calle 85,20,Domingo,0,510,7,0,Media
+Calle 72,22,Viernes,1,313,7,0,Baja
+Toberín,16,Domingo,0,670,5,0,Baja
+CAD,22,Martes,1,341,7,0,Baja
+Av. Jiménez,20,Domingo,0,960,3,0,Media
+Calle 85,19,Sábado,1,939,4,0,Media
+Calle 72,18,Sábado,0,464,3,0,Media
+Calle 72,12,Miércoles,0,348,6,0,Baja
+Calle 45,13,Jueves,0,421,11,0,Baja
+Calle 26,18,Martes,0,73,4,0,Baja
+CAD,13,Sábado,0,131,5,0,Baja
+Toberín,8,Lunes,1,534,10,0,Media
+Calle 45,21,Domingo,1,156,6,0,Baja
+Toberín,17,Miércoles,0,805,6,0,Media
+Calle 127,9,Viernes,0,79,2,0,Baja
+Calle 72,20,Jueves,1,603,6,0,Media
+Calle 127,22,Martes,0,517,12,0,Baja
+Ricaurte,18,Viernes,0,596,6,1,Media
+Calle 26,22,Martes,0,502,6,0,Baja
+Calle 85,9,Miércoles,0,585,4,0,Media
+Calle 26,22,Lunes,0,553,9,0,Baja
+Calle 45,14,Viernes,0,57,10,0,Baja
+Calle 45,22,Jueves,0,217,12,0,Baja
+Calle 45,12,Miércoles,0,690,5,0,Baja
+Ricaurte,13,Miércoles,0,594,6,0,Baja
+Toberín,10,Martes,0,702,9,0,Media
+Calle 85,20,Martes,0,205,2,1,Media
+Portal Norte,10,Lunes,0,178,9,0,Baja
+Calle 100,7,Martes,0,272,7,0,Baja
+Calle 26,16,Jueves,0,82,7,0,Baja
+Calle 127,6,Miércoles,0,123,10,0,Media
+Calle 100,13,Domingo,0,62,3,1,Baja
+Portal El Dorado,12,Jueves,0,503,5,0,Baja
+Portal Norte,11,Jueves,0,146,10,0,Baja
+Calle 100,20,Jueves,0,369,7,0,Media
+Portal El Dorado,6,Sábado,1,583,3,0,Media
+CAD,14,Martes,0,103,12,0,Baja
+Toberín,12,Sábado,0,65,4,0,Baja
+Ricaurte,8,Jueves,0,59,2,0,Baja
+Portal El Dorado,20,Sábado,0,430,3,0,Media
+Calle 26,7,Sábado,0,827,12,0,Alta
+Calle 72,9,Sábado,0,159,4,0,Baja
+Calle 72,22,Domingo,0,405,9,0,Baja
+Portal Norte,17,Miércoles,0,306,2,0,Baja
+Calle 26,22,Miércoles,0,551,5,0,Baja
+Av. Jiménez,16,Miércoles,0,331,11,1,Baja
+Av. Jiménez,10,Lunes,0,510,6,0,Baja
+Av. Jiménez,16,Jueves,0,703,10,0,Media
+Calle 127,5,Viernes,0,844,11,0,Media
+Portal El Dorado,7,Sábado,1,888,8,0,Alta
+CAD,20,Domingo,0,677,6,0,Media
+CAD,15,Lunes,0,724,3,0,Baja
+Calle 127,10,Domingo,0,159,9,0,Baja
+Portal Norte,23,Sábado,0,723,9,0,Media
+Portal El Dorado,23,Miércoles,0,276,11,0,Baja
+Portal Norte,11,Sábado,0,961,3,0,Baja
+CAD,6,Miércoles,0,961,8,0,Alta
+Portal El Dorado,6,Domingo,0,591,2,0,Media
+Calle 85,7,Martes,1,149,3,0,Baja
+Av. Jiménez,17,Martes,0,722,5,0,Media
+Calle 127,22,Sábado,0,814,3,0,Baja
+Ricaurte,16,Sábado,0,731,8,1,Media
+Calle 127,10,Viernes,0,395,12,0,Baja
+Ricaurte,19,Miércoles,1,613,7,0,Media
+Calle 45,18,Domingo,0,673,5,0,Media
+Calle 100,17,Domingo,0,812,6,0,Media
+Calle 26,19,Jueves,0,85,6,0,Baja
+Av. Jiménez,9,Miércoles,0,277,5,1,Media
+Portal Norte,13,Viernes,0,634,11,0,Baja
+Portal Norte,19,Miércoles,0,321,7,1,Media
+Calle 100,12,Miércoles,0,144,11,0,Baja
+Calle 100,7,Sábado,0,544,4,0,Media
+Portal El Dorado,23,Domingo,1,659,12,0,Baja
+Portal El Dorado,23,Jueves,0,107,7,0,Baja
+Calle 45,18,Domingo,0,838,5,0,Media
+Ricaurte,5,Sábado,0,441,2,0,Baja
+Portal Norte,15,Viernes,0,384,10,0,Baja
+Calle 127,6,Sábado,0,452,9,0,Media
+Ricaurte,21,Lunes,0,346,8,0,Baja
+Calle 72,7,Jueves,0,100,10,0,Media
+Toberín,17,Viernes,0,764,4,0,Media
+Calle 26,22,Martes,0,717,11,0,Media
+Ricaurte,21,Martes,0,322,8,0,Baja
+Ricaurte,7,Lunes,0,483,7,0,Media
+Calle 72,16,Viernes,0,838,6,0,Baja
+Calle 72,19,Viernes,0,95,5,0,Baja
+Calle 72,9,Domingo,0,137,3,0,Baja
+Calle 100,9,Domingo,0,344,2,0,Baja
+Toberín,14,Jueves,0,389,5,0,Baja
+Calle 100,11,Viernes,0,314,10,0,Baja
+Portal El Dorado,9,Sábado,0,68,8,0,Media
+CAD,21,Lunes,0,111,6,0,Baja
+Portal El Dorado,13,Lunes,0,58,3,0,Baja
+Calle 85,16,Domingo,0,349,12,0,Baja
+Calle 45,21,Sábado,0,373,9,1,Media
+Av. Jiménez,7,Martes,0,518,10,1,Alta
+Portal Norte,6,Martes,1,362,7,0,Media
+Portal El Dorado,10,Lunes,0,410,7,0,Baja
+Calle 100,21,Miércoles,0,690,6,1,Baja
+Portal Norte,22,Miércoles,0,399,8,0,Baja
+Toberín,17,Viernes,1,677,12,0,Media
+Calle 45,12,Viernes,0,369,11,0,Baja
+Av. Jiménez,9,Martes,0,644,10,0,Media
+Calle 100,9,Miércoles,0,970,10,1,Alta
+Calle 45,9,Sábado,1,989,4,0,Media
+Av. Jiménez,22,Sábado,0,375,4,0,Baja
+Calle 72,18,Jueves,0,813,12,1,Alta
+Calle 85,9,Domingo,0,184,4,0,Baja
+Ricaurte,13,Viernes,0,286,11,0,Baja
+CAD,5,Miércoles,0,848,9,0,Media
+Ricaurte,20,Sábado,0,238,8,0,Media
+Calle 127,10,Martes,0,468,2,1,Baja
+Calle 45,12,Sábado,0,257,5,0,Baja
+Calle 26,20,Sábado,0,518,5,0,Media
+Portal Norte,17,Sábado,0,676,11,0,Media
+Av. Jiménez,6,Viernes,0,517,2,1,Media
+Calle 100,21,Viernes,0,802,2,0,Baja
+Av. Jiménez,6,Martes,0,457,6,0,Media
+Calle 85,19,Martes,0,677,2,0,Media
+Calle 127,19,Domingo,0,142,10,0,Media
+Ricaurte,22,Martes,0,381,9,0,Baja
+Calle 26,23,Sábado,0,953,9,0,Media
+Calle 72,10,Sábado,0,143,3,0,Baja
+CAD,16,Lunes,0,443,10,0,Baja
+Calle 127,17,Viernes,0,836,4,1,Alta
+Ricaurte,9,Martes,0,233,2,0,Baja
+Calle 85,19,Miércoles,0,170,4,1,Media
+Portal Norte,13,Lunes,0,925,9,0,Media
+Portal Norte,20,Martes,0,725,9,0,Alta
+Calle 26,7,Viernes,0,300,10,0,Media
+CAD,22,Domingo,0,100,4,0,Baja
+CAD,16,Lunes,0,83,12,0,Baja
+Ricaurte,14,Miércoles,1,100,3,0,Baja
+Calle 127,10,Sábado,0,726,11,0,Media
+Av. Jiménez,10,Jueves,0,418,2,0,Baja
+Calle 85,15,Miércoles,0,889,3,0,Baja
+Av. Jiménez,7,Miércoles,0,174,6,0,Baja
+Calle 45,21,Martes,0,676,2,0,Baja
+Portal El Dorado,21,Lunes,0,755,11,1,Media
+Portal El Dorado,14,Jueves,0,374,6,0,Baja
+Ricaurte,16,Martes,0,558,10,0,Baja
+Calle 26,20,Domingo,0,674,5,0,Media
+Calle 100,5,Lunes,0,690,3,0,Baja
+Calle 100,18,Jueves,0,408,10,0,Media
+Calle 100,5,Sábado,0,338,6,0,Baja
+Calle 85,14,Viernes,0,835,2,0,Baja
+Calle 72,15,Jueves,0,680,2,0,Baja
+Calle 100,15,Domingo,0,738,9,1,Media
+Portal Norte,9,Jueves,0,521,10,1,Alta
+Calle 26,18,Sábado,0,583,6,0,Media
+CAD,15,Viernes,0,263,11,0,Baja
+Calle 72,7,Martes,0,81,7,1,Media
+CAD,22,Domingo,0,670,8,0,Baja
+Toberín,14,Sábado,0,776,2,0,Baja
+Toberín,20,Martes,0,899,6,0,Media
+Calle 85,10,Lunes,0,88,5,1,Baja
+Calle 26,21,Lunes,0,976,10,0,Media
+Calle 72,20,Sábado,0,367,7,0,Media
+Toberín,21,Sábado,1,260,2,0,Baja
+Portal El Dorado,21,Lunes,0,95,12,0,Baja
+Toberín,15,Jueves,0,155,10,0,Baja
+Portal El Dorado,14,Lunes,0,369,12,1,Media
+Calle 72,11,Martes,0,595,7,0,Baja
+CAD,8,Miércoles,0,330,3,0,Baja
+Ricaurte,22,Viernes,0,605,7,0,Baja
+Calle 85,9,Sábado,0,637,5,0,Media
+Calle 85,15,Viernes,0,183,2,0,Baja
+CAD,6,Lunes,0,138,8,0,Media
+Portal El Dorado,23,Sábado,0,766,9,0,Media
+Calle 85,15,Domingo,0,826,12,0,Media
+Toberín,19,Viernes,0,882,9,0,Alta
+Calle 85,19,Jueves,0,279,4,1,Media
+Ricaurte,13,Miércoles,0,766,12,0,Media
+Calle 72,19,Jueves,0,536,3,0,Media
+Calle 26,10,Miércoles,0,668,11,0,Baja
+Toberín,17,Domingo,0,159,7,0,Baja
+Toberín,14,Viernes,0,654,8,0,Baja
+Calle 100,22,Martes,1,443,3,0,Baja
+Portal El Dorado,23,Jueves,0,495,11,0,Baja
+Av. Jiménez,12,Martes,0,129,11,0,Baja
+Toberín,23,Viernes,0,618,3,0,Baja
+Calle 127,14,Jueves,0,161,12,0,Baja
+Calle 45,15,Jueves,0,112,3,0,Baja
+Calle 127,23,Domingo,0,50,4,0,Baja
+Calle 26,22,Miércoles,0,641,9,0,Baja
+CAD,15,Miércoles,0,985,12,0,Media
+Calle 45,16,Lunes,0,676,10,0,Baja
+Calle 127,14,Lunes,0,612,2,0,Baja
+Av. Jiménez,16,Lunes,0,936,2,0,Baja
+Portal El Dorado,23,Jueves,0,778,8,0,Media
+Calle 45,22,Martes,0,536,4,0,Baja
+Calle 45,16,Domingo,0,345,12,0,Baja
+Portal Norte,7,Sábado,0,788,9,0,Alta
+Calle 127,7,Martes,0,475,9,1,Alta
+Portal El Dorado,18,Viernes,0,571,8,0,Media
+Calle 26,17,Miércoles,0,484,11,0,Media
+Calle 26,12,Sábado,0,470,10,0,Baja
+Portal Norte,6,Viernes,0,427,3,0,Media
+Portal El Dorado,7,Martes,0,589,6,0,Media
+Toberín,21,Viernes,0,533,12,0,Baja
+CAD,7,Sábado,0,867,11,0,Alta
+Portal Norte,15,Viernes,0,530,9,0,Baja
